@@ -2,13 +2,13 @@
     {
         "name": "Bitcoin",
         "symbol": "btc",
-        "price": 70058,
-        "market_cap": 1401607626286
+        "price": 69815,
+        "market_cap": 1399546287668
     },
     {
         "name": "Ethereum",
         "symbol": "eth",
-        "price": 2061.79,
-        "market_cap": 249171596378
+        "price": 2053.44,
+        "market_cap": 248484975918
     }
 ]
